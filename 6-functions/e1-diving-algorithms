@@ -1,0 +1,6 @@
+// Algorithms can be divided with functions by for example separating tasks by what they're dealing with
+// For example if one part of an algorithm is related specifically to something it can be worth it to
+// make that part into it's own function. One of the key elements of functions is of course repetition, so making
+// a function for an algorithm or a part of an algorithm that won't be repeated is a bit of a waste.
+// If an algorithm uses very specific nuggets of information at given points these could be identified as potential
+// parameters for functions that the algorithm is divided into.
